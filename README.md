@@ -4,8 +4,8 @@ Parkinson disease is associated with movement disorder symptoms, such as tremor,
 
 
 # How To Run
-
-  python detect_parkinsons.py --dataset dataset/spiral
-  python detect_parkinsons.py --dataset dataset/wave
-  
+'''
+python detect_parkinsons.py --dataset dataset/spiral
+python detect_parkinsons.py --dataset dataset/wave
+'''
  
